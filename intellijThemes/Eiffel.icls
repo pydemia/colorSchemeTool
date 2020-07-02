@@ -1,12 +1,12 @@
 <scheme name="Eiffel" parent_scheme="Default" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="FFFFFF" />
-    <option name="INDENT_GUIDE" value="BFBFBF" />
+    <option name="LINE_NUMBERS_COLOR" value="000000" />
     <option name="SELECTION_BACKGROUND" value="C3DCFF" />
     <option name="CARET_ROW_COLOR" value="EDEDED" />
     <option name="WHITESPACES" value="BFBFBF" />
     <option name="CARET_COLOR" value="000000" />
-    <option name="LINE_NUMBERS_COLOR" value="000000" />
+    <option name="INDENT_GUIDE" value="BFBFBF" />
     <option name="SELECTED_INDENT_GUIDE" value="BFBFBF" />
     <option name="GUTTER_BACKGROUND" value="FFFFFF" />
   </colors>

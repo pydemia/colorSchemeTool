@@ -1,12 +1,12 @@
 <scheme name="Magicwb (amiga)" parent_scheme="Default" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="969696" />
-    <option name="INDENT_GUIDE" value="FF38FF" />
+    <option name="LINE_NUMBERS_COLOR" value="000000" />
     <option name="SELECTION_BACKGROUND" value="B1B1B1" />
     <option name="CARET_ROW_COLOR" value="8B8B8B" />
     <option name="WHITESPACES" value="FF38FF" />
     <option name="CARET_COLOR" value="FFFFFF" />
-    <option name="LINE_NUMBERS_COLOR" value="000000" />
+    <option name="INDENT_GUIDE" value="FF38FF" />
     <option name="SELECTED_INDENT_GUIDE" value="FF38FF" />
     <option name="GUTTER_BACKGROUND" value="969696" />
   </colors>

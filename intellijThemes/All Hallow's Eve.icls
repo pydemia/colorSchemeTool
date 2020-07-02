@@ -1,12 +1,12 @@
 <scheme name="All hallow's eve" parent_scheme="Darcula" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="000000" />
-    <option name="INDENT_GUIDE" value="404040" />
+    <option name="LINE_NUMBERS_COLOR" value="FFFFFF" />
     <option name="SELECTION_BACKGROUND" value="644D6E" />
     <option name="CARET_ROW_COLOR" value="333300" />
     <option name="WHITESPACES" value="404040" />
     <option name="CARET_COLOR" value="FFFFFF" />
-    <option name="LINE_NUMBERS_COLOR" value="FFFFFF" />
+    <option name="INDENT_GUIDE" value="404040" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="GUTTER_BACKGROUND" value="000000" />
   </colors>

@@ -1,12 +1,12 @@
 <scheme name="Espresso libre" parent_scheme="Darcula" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="2A211C" />
-    <option name="INDENT_GUIDE" value="BFBFBF" />
+    <option name="LINE_NUMBERS_COLOR" value="BDAE9D" />
     <option name="SELECTION_BACKGROUND" value="C3DCFF" />
     <option name="CARET_ROW_COLOR" value="3A312C" />
     <option name="WHITESPACES" value="BFBFBF" />
     <option name="CARET_COLOR" value="889AFF" />
-    <option name="LINE_NUMBERS_COLOR" value="BDAE9D" />
+    <option name="INDENT_GUIDE" value="BFBFBF" />
     <option name="SELECTED_INDENT_GUIDE" value="BFBFBF" />
     <option name="GUTTER_BACKGROUND" value="2A211C" />
   </colors>

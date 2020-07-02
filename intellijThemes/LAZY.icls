@@ -1,12 +1,12 @@
 <scheme name="Lazy" parent_scheme="Default" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="FFFFFF" />
-    <option name="INDENT_GUIDE" value="B6B6B6" />
+    <option name="LINE_NUMBERS_COLOR" value="000000" />
     <option name="SELECTION_BACKGROUND" value="E3FC8D" />
     <option name="CARET_ROW_COLOR" value="F6FDCD" />
     <option name="WHITESPACES" value="B6B6B6" />
     <option name="CARET_COLOR" value="7C7C7C" />
-    <option name="LINE_NUMBERS_COLOR" value="000000" />
+    <option name="INDENT_GUIDE" value="B6B6B6" />
     <option name="SELECTED_INDENT_GUIDE" value="B6B6B6" />
     <option name="GUTTER_BACKGROUND" value="FFFFFF" />
   </colors>

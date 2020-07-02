@@ -1,12 +1,12 @@
 <scheme name="Amy" parent_scheme="Darcula" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="200020" />
-    <option name="INDENT_GUIDE" value="BFBFBF" />
+    <option name="LINE_NUMBERS_COLOR" value="D0D0FF" />
     <option name="SELECTION_BACKGROUND" value="500010" />
     <option name="CARET_ROW_COLOR" value="380018" />
     <option name="WHITESPACES" value="BFBFBF" />
     <option name="CARET_COLOR" value="7070FF" />
-    <option name="LINE_NUMBERS_COLOR" value="D0D0FF" />
+    <option name="INDENT_GUIDE" value="BFBFBF" />
     <option name="SELECTED_INDENT_GUIDE" value="BFBFBF" />
     <option name="GUTTER_BACKGROUND" value="200020" />
   </colors>

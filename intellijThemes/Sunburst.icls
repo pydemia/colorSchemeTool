@@ -1,12 +1,12 @@
 <scheme name="Sunburst" parent_scheme="Darcula" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="000000" />
-    <option name="INDENT_GUIDE" value="30353B" />
+    <option name="LINE_NUMBERS_COLOR" value="F8F8F8" />
     <option name="SELECTION_BACKGROUND" value="2C2F32" />
     <option name="CARET_ROW_COLOR" value="0C0C0C" />
     <option name="WHITESPACES" value="30353B" />
     <option name="CARET_COLOR" value="A7A7A7" />
-    <option name="LINE_NUMBERS_COLOR" value="F8F8F8" />
+    <option name="INDENT_GUIDE" value="30353B" />
     <option name="SELECTED_INDENT_GUIDE" value="30353B" />
     <option name="GUTTER_BACKGROUND" value="000000" />
   </colors>

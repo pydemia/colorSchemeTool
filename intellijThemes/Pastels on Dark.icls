@@ -1,12 +1,12 @@
 <scheme name="Pastels on dark" parent_scheme="Darcula" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="211E1E" />
-    <option name="INDENT_GUIDE" value="4F4D4D" />
+    <option name="LINE_NUMBERS_COLOR" value="DADADA" />
     <option name="SELECTION_BACKGROUND" value="4A3B4E" />
     <option name="CARET_ROW_COLOR" value="353030" />
     <option name="WHITESPACES" value="4F4D4D" />
     <option name="CARET_COLOR" value="FFFFFF" />
-    <option name="LINE_NUMBERS_COLOR" value="DADADA" />
+    <option name="INDENT_GUIDE" value="4F4D4D" />
     <option name="SELECTED_INDENT_GUIDE" value="4F4D4D" />
     <option name="GUTTER_BACKGROUND" value="211E1E" />
   </colors>

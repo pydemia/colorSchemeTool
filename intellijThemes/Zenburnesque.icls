@@ -1,12 +1,12 @@
 <scheme name="Zenburnesque" parent_scheme="Darcula" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="404040" />
-    <option name="INDENT_GUIDE" value="A8A8A8" />
+    <option name="LINE_NUMBERS_COLOR" value="DEDEDE" />
     <option name="SELECTION_BACKGROUND" value="A0A0C0" />
     <option name="CARET_ROW_COLOR" value="4E4940" />
     <option name="WHITESPACES" value="A8A8A8" />
     <option name="CARET_COLOR" value="FFFF66" />
-    <option name="LINE_NUMBERS_COLOR" value="DEDEDE" />
+    <option name="INDENT_GUIDE" value="A8A8A8" />
     <option name="SELECTED_INDENT_GUIDE" value="A8A8A8" />
     <option name="GUTTER_BACKGROUND" value="404040" />
   </colors>
